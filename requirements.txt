@@ -1,0 +1,6 @@
+# SecureChat — Python Dependencies
+# pip install -r requirements.txt
+
+customtkinter>=5.2.0      # Premium dark-themed Tkinter wrapper
+cryptography>=41.0.0      # AES-256-GCM, HMAC-SHA256, PBKDF2
+Pillow>=10.0.0             # Optional: image support in UI
